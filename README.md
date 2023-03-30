@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
