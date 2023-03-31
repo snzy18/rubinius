@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+docs: update view-results-in-terminal.md (#66)
