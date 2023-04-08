@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add new @Retry() decorator (#7854)
