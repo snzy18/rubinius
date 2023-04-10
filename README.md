@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Segment TensorRT batch=3 fix (#7952)
