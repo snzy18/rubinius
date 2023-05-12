@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
