@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Segment TensorRT batch=3 fix (#7952)
