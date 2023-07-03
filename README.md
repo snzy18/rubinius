@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
