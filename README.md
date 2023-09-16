@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
