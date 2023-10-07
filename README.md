@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
