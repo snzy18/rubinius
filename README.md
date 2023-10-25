@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
