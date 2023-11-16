@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix TFLite INT8 for OBB (#7989)
