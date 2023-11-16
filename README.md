@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
