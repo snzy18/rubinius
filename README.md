@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Improve Coral Edge TPU guide (#8160)
