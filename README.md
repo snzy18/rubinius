@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
