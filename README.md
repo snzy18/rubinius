@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
