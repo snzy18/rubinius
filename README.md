@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix bbox2segment converter (#7814)
