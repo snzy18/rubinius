@@ -1,1 +1,1 @@
-update requirements.txt
+Add PR Summary step to Ultralytics Actions (#7675)
