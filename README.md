@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+docs: update view-results-in-terminal.md (#66)
