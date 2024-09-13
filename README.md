@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Fix OpenVINO missing batch-size bug (#9264)
