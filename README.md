@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add PaddlePaddle Docs Integrations Page (#8858)
