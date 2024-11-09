@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
